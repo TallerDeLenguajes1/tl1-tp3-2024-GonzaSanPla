@@ -28,7 +28,7 @@ int main(){
     printf("Ingrese la cantidad de clientes:");
     scanf("%d",&cantCli);
 
-    listado=(Cliente *)malloc(sizeof(Cliente)*cantCli);//Hacer otro en bluque para cada producto
+    listado=(Cliente *)malloc(sizeof(Cliente)*cantCli);//Hacer otro en bluque para cada produ
     
 
 
