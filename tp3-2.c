@@ -29,6 +29,8 @@ int main()
     return(0);
 }
 
+
+
 int numAl(int min, int max)
 {
     int numRand;
